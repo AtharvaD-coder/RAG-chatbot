@@ -14,7 +14,7 @@ This RAG chatbot leverages a Flask backend to process user queries by retrieving
 Clone the project
 
 ```bash
-  git clone https://github.com/AtharvaD-coder/chatbot.git
+  git clone https://github.com/AtharvaD-coder/RAG-chatbot.git
 ```
 
 To run frontend:
