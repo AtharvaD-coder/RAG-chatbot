@@ -1,0 +1,7 @@
+Flask
+langchain
+sentence-transformers
+langchain-community
+langchain-huggingface
+langchain-chroma
+transformers
