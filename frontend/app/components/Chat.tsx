@@ -12,7 +12,7 @@ const Chat = () => {
   return (
     <Accordion type='single' collapsible className='relative bg-slate-600 z-40 shadow '>
       <AccordionItem value='item-1'>
-        <div className='fixed right-8 w-80 bottom-8 bg-blue-300 border-gray-900 rounded-md overflow-hidden '>
+        <div className='fixed right-8 w-80 bottom-8 bg-pink-200 border-gray-900 rounded-md overflow-hidden '>
           <div className='w-full h-full flex flex-col'> 
             <AccordionTrigger className='px-6 border-b border-zinc-800'>
               <ChatHeader />
